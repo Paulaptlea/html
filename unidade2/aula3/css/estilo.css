@@ -1,0 +1,20 @@
+#total{
+    width: 960px;
+    height: auto;
+    margin: auto; /*Centraliza a div na apágina*/
+}
+
+#cabecalho{
+    width: 960px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);    
+}
+
+#logo{
+    float: left;  
+ }
+
+#menu{
+   float: right;
+   margin-top: 27px;  
+}
