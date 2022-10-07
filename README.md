@@ -1,2 +1,2 @@
 # HTML
-HTML pelo curso Mulheres Tech.
+HTML Mulheres Tech.
